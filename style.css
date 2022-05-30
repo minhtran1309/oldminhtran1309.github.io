@@ -101,3 +101,8 @@ a{
         padding-top: 2rem;
     }
 }
+img {
+  width: 250px;
+  height: 300px;
+  object-fit: contain;
+}
